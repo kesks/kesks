@@ -5,4 +5,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesks&layout=compact&theme=gotham&show_icons=true)
 
+![x](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkesks&title=IRQ) 
+
+
+
 
